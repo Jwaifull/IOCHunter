@@ -24,7 +24,7 @@ IOCHunter is a lightweight, portable desktop tool for analyzing Indicators of Co
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/IOCHunter.git
+git clone https://github.com/Jwaifull/IOCHunter.git
 cd IOCHunter
 ```
 
@@ -148,7 +148,7 @@ Pull requests are welcome. For major changes, open an issue first.
 
 ## 📄 License
 
-MIT License — free to use, modify, and distribute.
+AGPL-3.0 License — free for open source use. For commercial licensing.
 
 ---
 
